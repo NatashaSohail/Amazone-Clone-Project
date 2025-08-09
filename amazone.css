@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+   height: 60px;
+   background-color: #0f1111;
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+   background-image: url("amazon_logo.png");
+   background-size: cover;
+   height:50px;
+   width: 100%;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+/*FOR PARA. STYLES SECTION*/
+#sty-1{
+    color: #CCCCCC;
+    font-size: 0.8rem;
+    margin-left: 20px;
+} 
+#sty-2{
+    color: white;
+}
+#sty-3{
+  font-size: 0.85rem;
+  font-weight:700;
+}
+/**ICONS AND ADDRESSES */
+.add-icon{ 
+    display: flex;
+    align-items: center;
+} 
+/** For SEARCH BAR */
+.nav-search{
+    display: flex;
+    width: 620px;
+    height: 40px;
+    border-radius:4px ;
+    justify-content: space-evenly;
+}
+.nav-search:hover{
+    border: 2px solid orange ;
+}
+#search-select{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-radius: 4px 0 0 4px;
+    border: none;
+}
+#search-input{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+.search-icon{
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #febd68;
+    border-radius: 0 4px 4px 0;
+    color: black;
+} 
+/** FOR SIGN-IN SECTION */
+span{
+    font-size: 0.7rem;
+}
+/** For RETURN OPT. */
+
+/** For Cart opt. */
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/** END OF NAVBAR STYLES */
+
+/** PANNEL SECTION STYLES */
+
+     
