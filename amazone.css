@@ -96,5 +96,26 @@ span{
 /** END OF NAVBAR STYLES */
 
 /** PANNEL SECTION STYLES */
+ .panel{
+    height: 40px;
+    background-color:#222f3d ; 
+    display: flex;
+    color: white;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+ .panel-opt p{
+    display: inline-flex;
+    margin-left: 10px;
+ }
+ .panel-opt p:hover{
+      border: 2px solid white;
+ }
+ .panel-opt{
+    width: 85%;
+    font-size: 0.9rem;
+ }
+ /* PANEL ENDS */
 
-     
+ /* HERO SECTION */
+ 
