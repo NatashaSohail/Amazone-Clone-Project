@@ -10,11 +10,11 @@
 
 ---
 ## 🚀 Features
-<p style= "font-size:22px;">- **Static layout** inspired by Amazon's homepage
+- **Static layout** inspired by Amazon's homepage
 - **Pure HTML and CSS** without frameworks
 - **Hover effects** for interactive styling
 - **Clean, semantic HTML structure**
-- **Product showcase section**</p>
+- **Product showcase section**
 
 ---
 ## 📸 Demo
