@@ -24,8 +24,8 @@ https://natashasohail.github.io/Amazone-Clone-Project/
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5** – Semantic markup for structure
-- **CSS3** – Styling and hover effects
+- **HTML** – Semantic markup for structure
+- **CSS** – Styling and hover effects
 - **Flexbox** – Basic layout alignment
 ---
 ## 📂 Folder Structure
